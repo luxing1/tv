@@ -26,7 +26,6 @@
 			"searchable": 1
 		}, 
 		{"key":"csp_77","name":"💓酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"csp_77","name":"测试","type":3,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list":1,"quickSearch":1,"filterable":1}, 
 		{"key":"csp_77","name":"闪电","type":3,"api":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "csp_Wmkk",
